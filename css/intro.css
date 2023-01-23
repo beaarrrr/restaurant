@@ -1,0 +1,66 @@
+.intro {
+    background: url(../img/intro/hero\ image.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.intro__content {
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.intro__title {
+    font-family: 'Tinos';
+    text-align: center;
+    max-width: 556px;
+    font-weight: 400;
+    font-size: 50px;
+    color: #D67E35;
+}
+
+
+
+.intro__text {
+    margin-left: 170px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    max-width: 169px;
+    margin-top: 12px;
+    margin-bottom: 21px;
+}
+
+.intro__title--h11 {
+    font-size: 80px;
+}
+
+.intro__btn {
+    font-family: 'Open Sans';
+    margin-left: 178px;
+    background: #FF7400;
+    width: 137px;
+    height: 47px;
+    border: none;
+    /* padding: 14px 27px; */
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.intro__btn:hover {
+    background: #FFFFFF;
+    color: #FF7400;
+    box-shadow: 0 0 2px 2px #ccc;
+}
+

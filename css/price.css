@@ -1,0 +1,56 @@
+.price {
+    background: url(../img/price/bg.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: 122px;
+}
+
+
+.price__content {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.price__title {
+    padding-top: 80px;
+
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-size: 52px;
+    color: #D67E34;
+}
+
+.price__text {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 104px;
+}
+
+
+
+.price__btn {
+    margin-top: 155px;
+    margin-left: 331px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+    width: 157px;
+    height: 47px;
+    background: #FF7400;
+    border: none;
+
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.price__btn:hover{
+    background: #FFFFFF;
+    color:#FF7400;
+    box-shadow: 0 0 2px 2px #ccc;
+}

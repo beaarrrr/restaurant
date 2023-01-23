@@ -1,0 +1,18 @@
+.cook__title {
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-size: 54px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 107px;
+}
+
+
+.cook__title-h2 {
+    color: #D67E34;
+}
+
+.cook__img{
+    display: flex;
+    justify-content: space-between;
+}

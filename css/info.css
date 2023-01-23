@@ -1,0 +1,46 @@
+.info {
+    transform: translateY(-30%);
+}
+
+.info__wrapper {
+    display: flex;
+    margin: 0 -10px;
+}
+
+.info__block {
+    width: 33.33%;
+    padding: 0 10px;
+}
+
+.info__item {
+    background-color: #fff;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    padding: 35px 35px 10px 35px;
+    text-align: center;
+}
+
+.info__img {
+    margin-top: 35px;
+}
+
+.info__title {
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-size: 26px;
+    color: #2C2C2C;
+
+}
+
+.info__title__h33 {
+    color: #BC9060;
+}
+
+.info__text {
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-size: 26px;
+    color: #656363;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}

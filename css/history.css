@@ -1,0 +1,52 @@
+.history__content {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.history__title {
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-size: 54px;
+
+}
+
+.history__title--h2 {
+    color: #D67E34;
+}
+
+.history__text {
+    font-family: 'Open Sans';
+    width: 444px;
+    height: 217px;
+    padding-top: 21px;
+    padding-left: 39px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.history__meloch {
+    display: flex;
+    padding-left: 81px;
+    justify-content: center;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.melo__title {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 40px;
+    color: #BC9060;
+    padding-bottom: 2px;
+}
+
+
+.melo__text {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
